@@ -53,7 +53,7 @@ Desarrollo de una aplicación simple que integre todos los conceptos aprendidos:
 
 2. **Prácticas de código limpio:**
    - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-   - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Libro esencial
+   - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) - Libro esencial [PDF](https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf)
 
 3. **Metodologías ágiles:**
    - [Scrum Guide](https://scrumguides.org/)
