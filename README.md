@@ -1,4 +1,4 @@
-# Programa de Capacitación en Desarrollo Profesional
+# Programa de Capacitación en Desarrollo Profesional - Lvl. 1
 
 ## Semana 1: Fundamentos de Desarrollo Profesional
 - **Sesión 1:** Introducción al entorno profesional de desarrollo
